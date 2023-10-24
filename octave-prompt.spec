@@ -10,6 +10,8 @@ Group:		Sciences/Mathematics
 Url:		https://github.com/gnu-octave/prompt
 Source0:	https://github.com/gnu-octave/prompt/archive/%{version}/%{octpkg}-%{version}.tar.gz
 
+BuildRequires:  octave-devel
+
 Requires:	octave(api) = %{octave_api}
 
 Requires(post): octave
