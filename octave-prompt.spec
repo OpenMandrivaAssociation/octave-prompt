@@ -3,7 +3,7 @@
 Summary:	A powerlevel10k-like prompt for octave
 Name:		octave-prompt
 Version:	0.0.1
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/prompt/
